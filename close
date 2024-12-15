@@ -6,15 +6,3 @@ height: 37px;
 left: 25px;
 top: 65px;
 
-
-
-/* Icon */
-
-position: absolute;
-width: 15.42px;
-height: 7.71px;
-left: calc(50% - 15.42px/2 + 4.13px);
-top: calc(50% - 7.71px/2 + 11.06px);
-
-border: 3.08333px solid #000000;
-transform: rotate(-90deg);
