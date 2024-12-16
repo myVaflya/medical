@@ -37,6 +37,20 @@ body, html {
     color: black;
 }
 
+.header {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    position: relative;
+}
+
+.img-arrow-left {
+    position: absolute;
+    left: 0;
+    cursor: pointer;
+}
+
 .text-title {
     font-size: 20px;
     font-weight: 700;
